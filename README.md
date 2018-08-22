@@ -1,4 +1,4 @@
-#Days between dates calculator 
+# Days between dates calculator 
 a program that takes in 2 dates and calculates the number of days between them.
 
 ## How to use it:
